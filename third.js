@@ -14,3 +14,4 @@ const upi = "Integrated UPI also.";
 console.log(upi);
 
 console.log("latest Updates");
+console.log("Bug fix");
